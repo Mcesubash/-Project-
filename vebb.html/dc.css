@@ -1,0 +1,53 @@
+.add{
+    
+    border: 2px;
+    width:2000 px;
+    height: 70px;
+    }
+    img{
+        border: 2px;
+        width: 200px;
+        height: 100px;
+    }
+    .dd{
+        margin-left: 1200px;
+        
+    }
+
+    .rr{
+
+        border: 2px;
+        margin-left: 100px;
+        color:none;
+    }
+    .sd{
+      
+       border: 2px;
+       width: 2000px;
+       height:100px;
+       margin-left: 106px;
+    }
+    button{
+        border: 2px solid rgba(15, 15, 212, 0.863);
+        padding: 10px 20px;
+    
+        
+        margin-left: 130px;
+        margin-bottom: 2px;
+        border-radius: 100px;
+
+      
+    
+    }
+    .ds{
+        margin-left: 500px;
+        border: 2px;
+        width: 680px;
+        height: 680px;
+        margin-top: -130px;
+       
+    }
+   
+    
+
+
